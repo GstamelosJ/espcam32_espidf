@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "string.h": "c",
-        "rtc_cntl_reg.h": "c"
+        "rtc_cntl_reg.h": "c",
+        "esp_camera.h": "c"
     }
 }
